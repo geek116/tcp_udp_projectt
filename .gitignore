@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+results/baseline_tmp/
+results/quick_test.csv
+received_*.bin
+.venv/
